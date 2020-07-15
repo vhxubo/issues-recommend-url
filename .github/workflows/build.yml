@@ -15,7 +15,7 @@ jobs:
     - name: Create README.md
       run: npm run start
       env:
-        GITHUB_TOKEN: ${{ github.token }}
+        GITHUB_TOKEN: ${{ secrets.TOKEN }}
         GITHUB_REPOSITORY: ${{ github.repository }}
         SHOW_NUM: 8
     - name: Update README.md

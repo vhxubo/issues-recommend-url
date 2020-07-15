@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
-// const HttpProxyAgent = require('http-proxy-agent');
+const HttpProxyAgent = require('http-proxy-agent');
 require('dotenv').config();
 
 // vhxubo/test [0]=vhxubo [1]=test
@@ -116,7 +116,7 @@ const init = function ({ data }) {
 fetch('https://api.github.com/graphql', {
   method: 'POST',
   headers: {
-    // agent: new HttpProxyAgent('http://127.0.0.1:1081'),
+    agent: new HttpProxyAgent('http://127.0.0.1:1081'),
     'Content-Type': 'application/json',
     Accept: 'application/json',
     Authorization: `bearer ${GITHUB_TOKEN}`,
