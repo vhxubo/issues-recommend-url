@@ -1,0 +1,26 @@
+{
+  "name": "issues-recommend-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhxubo/issues-recommend-url.git"
+  },
+  "author": "vhxubo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vhxubo/issues-recommend-url/issues"
+  },
+  "homepage": "https://github.com/vhxubo/issues-recommend-url#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "http-proxy-agent": "^4.0.1"
+  }
+}
