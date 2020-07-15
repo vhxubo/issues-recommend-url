@@ -10,15 +10,15 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Use Node.js
-    - name: 'Install NPM dependencies'
+    - name: Install NPM dependencies
       run: npm install
-    - name: 'create README.md'
+    - name: Create README.md
       run: npm run start
       env:
         GITHUB_TOKEN: ${{ github.token }}
         GITHUB_REPOSITORY: ${{ github.repository }}
-    - name: 'Update README.md'
+        SHOW_NUM: 8
+    - name: Update README.md
       run: |-
         git diff
         git config --global user.email "issues-bot@test.com"
