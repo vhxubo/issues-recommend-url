@@ -1,7 +1,8 @@
 name: Build
 
 on:
-  issues
+  issues:
+    types: [opened, edited, deleted, labeled]
 
 jobs:
   build:
