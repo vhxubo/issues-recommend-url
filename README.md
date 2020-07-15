@@ -1,18 +1,5 @@
 <table><tr>
 <td>
-<a href="https://github.com/vhxubo/issues-recommend-url/issues/new">New Issue · vhxubo/issues-recommend-url 👍0</a>
-</td>
-<td align="right">
-<a href="https://github.com/vhxubo/issues-recommend-url/labels/bug">标签：bug</a>
-</td>
-</tr><tr>
-<td colspan="2">
-新的测试
-</td>
-</tr></table>
-
-<table><tr>
-<td>
 <a href="https://github.com/vhxubo/issues-recommend-url/issues">Issues · vhxubo/issues-recommend-url 👍1</a>
 </td>
 <td align="right">
@@ -24,4 +11,4 @@
 </td>
 </tr></table>
 
-共收录 2 篇
+共收录 1 篇
