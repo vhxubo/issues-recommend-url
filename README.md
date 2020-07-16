@@ -2,6 +2,18 @@
 
 <table><tr>
 <td>
+<a href="https://flowcv.io/">Free Online Resume Builder and Resume Templates - FlowCV 👍1</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%B7%A5%E5%85%B7">标签：工具</a>
+</td>
+</tr><tr>
+<td colspan="2">
+Set yourself apart with a modern resume. Expert tips, customizable templates & quick PDF download included.
+</td>
+</tr></table>
+<table><tr>
+<td>
 <a href="https://codeburst.io/javascript-map-vs-foreach-f38111822c0f">JavaScript — Map vs. ForEach. What’s the difference between Map and… | by Brandon Morelli | codeburst 👍1</a>
 </td>
 <td align="right">
@@ -62,4 +74,4 @@ issues-recommend-url 项目灵感来源于此~
 </tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 5 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 6 篇</a>
