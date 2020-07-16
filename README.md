@@ -14,7 +14,7 @@
 </tr></table>
 <table><tr>
 <td>
-<a href="https://www.zhangxinxu.com/">张鑫旭的个人主页 » 张鑫旭-鑫空间-鑫生活 👍0</a>
+<a href="https://www.zhangxinxu.com/">张鑫旭的个人主页 » 张鑫旭-鑫空间-鑫生活 👍1</a>
 </td>
 <td align="right">
 <a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%8D%9A%E5%AE%A2">标签：博客</a>
