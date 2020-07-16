@@ -3,7 +3,7 @@ name: Build
 on:
   push:
   issues:
-    types: [edited, deleted, closed, labeled]
+    types: [edited, deleted, closed]
 
 jobs:
   build:
