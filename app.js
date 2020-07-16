@@ -1,6 +1,5 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
-const HttpProxyAgent = require('http-proxy-agent');
 require('dotenv').config();
 
 // vhxubo/test [0]=vhxubo [1]=test
@@ -50,7 +49,20 @@ const model = function ({ title, url, description, labels, up }) {
 <td colspan="2">
 ${description}
 </td>
-</tr></table>
+</tr></table>`;
+};
+
+const profile = function (outHtml, totalCount) {
+  return `### 资源推荐
+
+${outHtml}
+
+<a href="https://github.com/${GITHUB_REPOSITORY.join(
+    '/'
+  )}/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
+<a href="https://github.com/${GITHUB_REPOSITORY.join(
+    '/'
+  )}/issues">共收录 ${totalCount} 篇</a>
 `;
 };
 
@@ -65,10 +77,13 @@ function Node(info, description, labels, up) {
 /**
  * 写到文件
  *
- * @param {*} text
+ * @param {*} outHtml
+ * @param {*} totalCount
  */
-const output = function (text) {
-  fs.writeFile('README.md', text, (err) => console.log(err));
+const output = function (outHtml, totalCount) {
+  fs.writeFile('README.md', profile(outHtml, totalCount), (err) =>
+    console.log(err)
+  );
 };
 
 /**
@@ -79,9 +94,9 @@ const output = function (text) {
 const parse = function ({ result: nodes, totalCount }) {
   console.log('nodes', JSON.stringify(nodes, null, 2));
   const parseHtml = nodes.map((node) => model(node));
-  const outText = parseHtml.join('\n') + `\n共收录 ${totalCount} 篇\n`;
-  console.log(outText);
-  output(outText);
+  const outHtml = parseHtml.join('\n');
+  console.log(outHtml);
+  output(outHtml, totalCount);
 };
 
 /**
@@ -116,7 +131,6 @@ const init = function ({ data }) {
 fetch('https://api.github.com/graphql', {
   method: 'POST',
   headers: {
-    agent: new HttpProxyAgent('http://127.0.0.1:1081'),
     'Content-Type': 'application/json',
     Accept: 'application/json',
     Authorization: `bearer ${GITHUB_TOKEN}`,

@@ -1,6 +1,7 @@
 name: Build
 
 on:
+  push
   issues:
     types: [opened, edited, deleted]
 
@@ -22,8 +23,8 @@ jobs:
     - name: Update README.md
       run: |-
         git diff
-        git config --global user.email "issues-bot@test.com"
-        git config --global user.name "Issues-bot"
+        git config --global user.email "issues-bot@actions.com"
+        git config --global user.name "github-actions"
         git add -A
         git commit -m "Updated README.md" || exit 0
         git push
