@@ -111,8 +111,11 @@ const init = function ({ data }) {
   const totalCount = data.viewer.repository.issues.totalCount;
 
   for (const node of nodes) {
-    if (node.author.login !== GITHUB_REPOSITORY[0]) {
-      return;
+    if (
+      node.author.login !== GITHUB_REPOSITORY[0] ||
+      !/\[(.*?)\]\((.*?)\)/.test(node.title)
+    ) {
+      continue;
     }
 
     result.push(
@@ -139,4 +142,4 @@ fetch('https://api.github.com/graphql', {
 })
   .then((res) => res.json())
   .then((resp) => parse(init(resp)))
-  .catch((err) => console.log('fuck ', err));
+  .catch((err) => console.log(err));

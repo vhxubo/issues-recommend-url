@@ -19,8 +19,5 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "node-fetch": "^2.6.0"
-  },
-  "devDependencies": {
-    "http-proxy-agent": "^4.0.1"
   }
 }
