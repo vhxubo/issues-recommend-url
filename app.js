@@ -13,7 +13,7 @@ const SHOW_NUM = process.env.SHOW_NUM;
 const query = `query {
     viewer {
       repository(name: "${GITHUB_REPOSITORY[1]}") {
-        issues(last: ${SHOW_NUM}, orderBy: {field: CREATED_AT, direction: DESC}) {
+        issues(last: ${SHOW_NUM}, orderBy: {field: CREATED_AT, direction: DESC}, states: CLOSED) {
           totalCount
           nodes {
             title
