@@ -2,6 +2,18 @@
 
 <table><tr>
 <td>
+<a href="https://fullstackopen.com/zh/">全栈公开课2020 👍0</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%89%8D%E7%AB%AF">标签：前端</a>
+</td>
+</tr><tr>
+<td colspan="2">
+一站式学习 React, Redux, Node.js, MongoDB, GraphQL 以及 TypeScript！这门课程会向你介绍基于 JavaScript 的现代 Web 编程技术。重点是利用 ReactJS 搭配Node.js开发的REST API，来搭建单页面应用程序（SPA：Single Page Application）
+</td>
+</tr></table>
+<table><tr>
+<td>
 <a href="https://github.com/thzt/fe-sibi-guide">thzt/fe-sibi-guide: 前端撕逼指南 👍1</a>
 </td>
 <td align="right">
@@ -38,4 +50,4 @@ issues-recommend-url 项目灵感来源于此~
 </tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 3 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 4 篇</a>
