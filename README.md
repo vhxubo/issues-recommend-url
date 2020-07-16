@@ -2,6 +2,18 @@
 
 <table><tr>
 <td>
+<a href="https://github.com/thzt/fe-sibi-guide">thzt/fe-sibi-guide: 前端撕逼指南 👍1</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E6%8A%80%E5%B7%A7">标签：技巧</a>
+</td>
+</tr><tr>
+<td colspan="2">
+本仓库整理了前端开发过程中遇到的一些问题，口传心授，旨在帮助新人更有准备的应对各种突发情况。
+</td>
+</tr></table>
+<table><tr>
+<td>
 <a href="https://www.zhangxinxu.com/">张鑫旭的个人主页 » 张鑫旭-鑫空间-鑫生活 👍0</a>
 </td>
 <td align="right">
@@ -26,4 +38,4 @@ issues-recommend-url 项目灵感来源于此~
 </tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 2 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 3 篇</a>
