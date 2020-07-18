@@ -98,4 +98,4 @@ issues-recommend-url 项目灵感来源于此~
 </tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 8 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 11 篇</a>
