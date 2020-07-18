@@ -2,6 +2,18 @@
 
 <table><tr>
 <td>
+<a href="https://github.com/hoochanlon/helpdesk-guide">hoochanlon/helpdesk-guide  👍0</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E6%8A%80%E5%B7%A7">标签：技巧</a>
+</td>
+</tr><tr>
+<td colspan="2">
+📖培训机构PUA手法运营剖析、中小外包公司业务解构、换位思考解读HR；反欺骗研究，社会工程学入门实践，IT方向速成就业入职
+</td>
+</tr></table>
+<table><tr>
+<td>
 <a href="https://github.com/mqyqingfeng/Blog">mqyqingfeng/Blog 👍1</a>
 </td>
 <td align="right">
@@ -48,18 +60,6 @@ JavaScript 算法仓库，LeetCode 力扣的 JavaScript 题解和思路。Issue 
 A modern approach to copy text to clipboard
 </td>
 </tr></table>
-<table><tr>
-<td>
-<a href="https://zh.javascript.info/">现代 JavaScript 教程 👍1</a>
-</td>
-<td align="right">
-<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%AD%A6%E4%B9%A0">标签：学习</a>
-</td>
-</tr><tr>
-<td colspan="2">
-以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
-</td>
-</tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 12 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 13 篇</a>
