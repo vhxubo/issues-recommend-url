@@ -2,6 +2,18 @@
 
 <table><tr>
 <td>
+<a href="https://github.com/mqyqingfeng/Blog">mqyqingfeng/Blog 👍1</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%8D%9A%E5%AE%A2">标签：博客</a>
+</td>
+</tr><tr>
+<td colspan="2">
+冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+</td>
+</tr></table>
+<table><tr>
+<td>
 <a href="https://github.com/qianguyihao/Web">qianguyihao/Web 👍0</a>
 </td>
 <td align="right">
@@ -48,18 +60,6 @@ A modern approach to copy text to clipboard
 以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 </td>
 </tr></table>
-<table><tr>
-<td>
-<a href="https://www.freecodecamp.org/">Learn to code at home | freeCodeCamp.org 👍0</a>
-</td>
-<td align="right">
-<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%AD%A6%E4%B9%A0">标签：学习</a>
-</td>
-</tr><tr>
-<td colspan="2">
-Our mission: to help people learn to code for free. 
-</td>
-</tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 11 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 12 篇</a>
