@@ -2,7 +2,7 @@
 
 <table><tr>
 <td>
-<a href="https://github.com/qianguyihao/Web">qianguyihao/Web: 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。持续更新... 👍0</a>
+<a href="https://github.com/qianguyihao/Web">qianguyihao/Web 👍0</a>
 </td>
 <td align="right">
 <a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%8D%9A%E5%AE%A2">标签：博客</a>
