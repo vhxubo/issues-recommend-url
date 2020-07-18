@@ -14,14 +14,14 @@
 </tr></table>
 <table><tr>
 <td>
-<a href="https://github.com/sl1673495/leetcode-javascript">sl1673495/leetcode-javascript: 喝杯小酒，一起做题。LeetCode 力扣的 JavaScript 题解和思路。Issue 中有详细题解，已按题目类型分 label，一起加油。 👍0</a>
+<a href="https://github.com/sl1673495/leetcode-javascript">sl1673495/leetcode-javascript 👍0</a>
 </td>
 <td align="right">
 <a href="https://github.com/vhxubo/issues-recommend-url/labels/%E7%AE%97%E6%B3%95">标签：算法</a>
 </td>
 </tr><tr>
 <td colspan="2">
-JavaScript 算法仓库
+JavaScript 算法仓库，LeetCode 力扣的 JavaScript 题解和思路。Issue 中有详细题解，已按题目类型分 label，一起加油。
 </td>
 </tr></table>
 <table><tr>
