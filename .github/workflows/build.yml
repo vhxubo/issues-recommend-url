@@ -19,7 +19,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.TOKEN }}
         GITHUB_REPOSITORY: ${{ github.repository }}
-        SHOW_NUM: 8
+        SHOW_NUM: 5
     - name: Update README.md
       run: |-
         git diff
