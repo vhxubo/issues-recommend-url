@@ -2,6 +2,18 @@
 
 <table><tr>
 <td>
+<a href="https://juejin.im/entry/5987c423f265da3e315ecb51">Flexbox 实战：使用 Flexbox 轻松实现下拉导航菜单 👍1</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%89%8D%E7%AB%AF">标签：前端</a>
+</td>
+</tr><tr>
+<td colspan="2">
+使用 Flexbox 轻松实现下拉导航菜单（纯CSS实现）
+</td>
+</tr></table>
+<table><tr>
+<td>
 <a href="https://yangshun.github.io/front-end-interview-handbook/zh/html-questions">Front End Interview Handbook 👍1</a>
 </td>
 <td align="right">
@@ -48,18 +60,6 @@
 前端入门到进阶，超详细的Web前端学习图文教程。从零开始学前端，做一名精致优雅的前端工程师。持续更新...
 </td>
 </tr></table>
-<table><tr>
-<td>
-<a href="https://github.com/sl1673495/leetcode-javascript">sl1673495/leetcode-javascript 👍0</a>
-</td>
-<td align="right">
-<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E7%AE%97%E6%B3%95">标签：算法</a>
-</td>
-</tr><tr>
-<td colspan="2">
-JavaScript 算法仓库，LeetCode 力扣的 JavaScript 题解和思路。Issue 中有详细题解，已按题目类型分 label，一起加油。
-</td>
-</tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 14 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 15 篇</a>
