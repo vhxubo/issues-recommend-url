@@ -2,6 +2,18 @@
 
 <table><tr>
 <td>
+<a href="https://hijiangtao.github.io/">Joe's Blog 👍0</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%8D%9A%E5%AE%A2">标签：博客</a>
+</td>
+</tr><tr>
+<td colspan="2">
+All I’m saying is inside, I had the element of surprise.
+</td>
+</tr></table>
+<table><tr>
+<td>
 <a href="http://www.ruanyifeng.com/blog/2010/03/css_cookbook.html">CSS使用技巧 - 阮一峰的网络日志 👍0</a>
 </td>
 <td align="right">
@@ -48,18 +60,6 @@ RT，图文解释很详细
 CSS常用技巧总结
 </td>
 </tr></table>
-<table><tr>
-<td>
-<a href="https://juejin.im/entry/5987c423f265da3e315ecb51">Flexbox 实战：使用 Flexbox 轻松实现下拉导航菜单 👍1</a>
-</td>
-<td align="right">
-<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%89%8D%E7%AB%AF">标签：前端</a>
-</td>
-</tr><tr>
-<td colspan="2">
-使用 Flexbox 轻松实现下拉导航菜单（纯CSS实现）
-</td>
-</tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 19 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 20 篇</a>
