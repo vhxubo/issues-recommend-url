@@ -2,6 +2,18 @@
 
 <table><tr>
 <td>
+<a href="https://choosealicense.com/">Choose an open source license | Choose a License 👍0</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%B7%A5%E5%85%B7">标签：工具</a>
+</td>
+</tr><tr>
+<td colspan="2">
+如何选择开源许可
+</td>
+</tr></table>
+<table><tr>
+<td>
 <a href="https://hijiangtao.github.io/">Joe's Blog 👍0</a>
 </td>
 <td align="right">
@@ -48,18 +60,6 @@ extract-text-webpack-plugin has been archived,should use mini-css-extract-plugin
 RT，图文解释很详细
 </td>
 </tr></table>
-<table><tr>
-<td>
-<a href="http://www.ruanyifeng.com/blog/2010/03/css_cookbook.html">CSS使用技巧 - 阮一峰的网络日志 👍1</a>
-</td>
-<td align="right">
-<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%89%8D%E7%AB%AF">标签：前端</a>
-</td>
-</tr><tr>
-<td colspan="2">
-CSS常用技巧总结
-</td>
-</tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 20 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 21 篇</a>
