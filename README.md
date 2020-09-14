@@ -2,6 +2,18 @@
 
 <table><tr>
 <td>
+<a href="https://github.com/taowen/awesome-lowcode">taowen/awesome-lowcode: 国内低代码平台从业者交流 👍0</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E6%8A%80%E5%B7%A7">标签：技巧</a>
+</td>
+</tr><tr>
+<td colspan="2">
+一切改进都是源自于人类的缺陷
+</td>
+</tr></table>
+<table><tr>
+<td>
 <a href="https://choosealicense.com/">Choose an open source license | Choose a License 👍0</a>
 </td>
 <td align="right">
@@ -48,18 +60,6 @@ CSS 技巧
 extract-text-webpack-plugin has been archived,should use mini-css-extract-plugin.
 </td>
 </tr></table>
-<table><tr>
-<td>
-<a href="https://segmentfault.com/a/1190000006924181">通过案例理解position:relative和position:absolute 👍0</a>
-</td>
-<td align="right">
-<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%89%8D%E7%AB%AF">标签：前端</a>
-</td>
-</tr><tr>
-<td colspan="2">
-RT，图文解释很详细
-</td>
-</tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 21 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 22 篇</a>
