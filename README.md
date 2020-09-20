@@ -2,6 +2,30 @@
 
 <table><tr>
 <td>
+<a href="https://github.com/iamkun/dayjs">iamkun/dayjs: ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API 👍0</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%B7%A5%E5%85%B7">标签：工具</a>
+</td>
+</tr><tr>
+<td colspan="2">
+https://day.js.org/
+</td>
+</tr></table>
+<table><tr>
+<td>
+<a href="https://github.com/jaywcjlove/linux-command">jaywcjlove/linux-command: Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux 👍0</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%B7%A5%E5%85%B7">标签：工具</a>
+</td>
+</tr><tr>
+<td colspan="2">
+ Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
+</td>
+</tr></table>
+<table><tr>
+<td>
 <a href="https://github.com/taowen/awesome-lowcode">taowen/awesome-lowcode: 国内低代码平台从业者交流 👍0</a>
 </td>
 <td align="right">
@@ -36,30 +60,6 @@
 All I’m saying is inside, I had the element of surprise.
 </td>
 </tr></table>
-<table><tr>
-<td>
-<a href="http://www.ruanyifeng.com/blog/2010/03/css_cookbook.html">CSS使用技巧 - 阮一峰的网络日志 👍0</a>
-</td>
-<td align="right">
-<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%89%8D%E7%AB%AF">标签：前端</a>
-</td>
-</tr><tr>
-<td colspan="2">
-CSS 技巧
-</td>
-</tr></table>
-<table><tr>
-<td>
-<a href="https://extri.co/2017/05/23/using-htmlwebpackplugin-and-pug/">Using HTMLWebpackPlugin and Pug | Extrico 👍1</a>
-</td>
-<td align="right">
-<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%89%8D%E7%AB%AF">标签：前端</a>
-</td>
-</tr><tr>
-<td colspan="2">
-extract-text-webpack-plugin has been archived,should use mini-css-extract-plugin.
-</td>
-</tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 22 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 24 篇</a>
