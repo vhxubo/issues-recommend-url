@@ -2,6 +2,18 @@
 
 <table><tr>
 <td>
+<a href="https://github.com/FullHuman/purgecss">FullHuman/purgecss: Remove unused CSS 👍0</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%89%8D%E7%AB%AF">标签：前端</a>
+</td>
+</tr><tr>
+<td colspan="2">
+清理无用的 CSS
+</td>
+</tr></table>
+<table><tr>
+<td>
 <a href="https://www.jianshu.com/p/98dfa4c6389c">vue.js - v-bind 的一些理解和思考 - 简书 👍0</a>
 </td>
 <td align="right">
@@ -48,18 +60,6 @@ https://day.js.org/
 一切改进都是源自于人类的缺陷
 </td>
 </tr></table>
-<table><tr>
-<td>
-<a href="https://choosealicense.com/">Choose an open source license | Choose a License 👍0</a>
-</td>
-<td align="right">
-<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%B7%A5%E5%85%B7">标签：工具</a>
-</td>
-</tr><tr>
-<td colspan="2">
-如何选择开源许可
-</td>
-</tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 25 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 26 篇</a>
