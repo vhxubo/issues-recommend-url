@@ -2,6 +2,30 @@
 
 <table><tr>
 <td>
+<a href="https://g.yuque.com/ynzy/vscode">更好的使用Vscode · 语雀 👍0</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%B7%A5%E5%85%B7">标签：工具</a>
+</td>
+</tr><tr>
+<td colspan="2">
+vscode好用的插件推荐以及插件自定义配置 vscode的一些使用技巧
+</td>
+</tr></table>
+<table><tr>
+<td>
+<a href="https://juejin.im/post/6844904035007332360">「解放双手」老舅教你VS Code Disco 👍0</a>
+</td>
+<td align="right">
+<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%B7%A5%E5%85%B7">标签：工具</a>
+</td>
+</tr><tr>
+<td colspan="2">
+VS Code 技巧
+</td>
+</tr></table>
+<table><tr>
+<td>
 <a href="https://github.com/FullHuman/purgecss">FullHuman/purgecss: Remove unused CSS 👍0</a>
 </td>
 <td align="right">
@@ -36,30 +60,6 @@ v-bind 的一些理解和思考
 https://day.js.org/
 </td>
 </tr></table>
-<table><tr>
-<td>
-<a href="https://github.com/jaywcjlove/linux-command">jaywcjlove/linux-command: Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux 👍0</a>
-</td>
-<td align="right">
-<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E5%B7%A5%E5%85%B7">标签：工具</a>
-</td>
-</tr><tr>
-<td colspan="2">
- Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。
-</td>
-</tr></table>
-<table><tr>
-<td>
-<a href="https://github.com/taowen/awesome-lowcode">taowen/awesome-lowcode: 国内低代码平台从业者交流 👍0</a>
-</td>
-<td align="right">
-<a href="https://github.com/vhxubo/issues-recommend-url/labels/%E6%8A%80%E5%B7%A7">标签：技巧</a>
-</td>
-</tr><tr>
-<td colspan="2">
-一切改进都是源自于人类的缺陷
-</td>
-</tr></table>
 
 <a href="https://github.com/vhxubo/issues-recommend-url/issues/new"><img src=".github/workflows/new_issue.png" align="right" height="28" alt="New issue"></a> 
-<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 26 篇</a>
+<a href="https://github.com/vhxubo/issues-recommend-url/issues">共收录 28 篇</a>
